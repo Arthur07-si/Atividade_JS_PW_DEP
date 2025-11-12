@@ -1,11 +1,7 @@
 # Atividades de JavaScript – Senac
 Descompacte o arquivo .zip e abra a pasta no Visual Studio Code(recomendado)
 
-Inicie cada:
-Atividade 1A:** Média usando `prompt()`
-Atividade 1B:** Média usando campos `<input>`
-Atividade 2:** Cálculo de IMC com cores indicativas
-Atividade 3:** Lista dinâmica com cores e `appendChild`
+Inicie cada um dos arquivos
    
 ## 👥 Integrantes
 - Arthur Santos Marques 4°A NOTURNO
